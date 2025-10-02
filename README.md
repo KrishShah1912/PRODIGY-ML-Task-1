@@ -43,7 +43,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Acknowledgments
 * Dataset from [source, e.g., Kaggle “House Prices - Advanced Regression Techniques”]
-Some guidance generated with AI tools
+* Some guidance generated with AI tools
 
 ---
 
