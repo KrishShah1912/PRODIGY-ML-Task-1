@@ -17,15 +17,6 @@ PRODIGY ML Task 1 is a hands-on project demonstrating the full machine learning 
 
 ---
 
-## Project Structure
-PRODIGY-ML-TASK-1/
-│
-├── ML1.ipynb # Complete ML workflow and analysis
-└── README.md # Project documentation
-
-
----
-
 ## Setup & Usage
 ### Prerequisites
 Python 3.10+ and essential libraries:
@@ -37,7 +28,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ## Running the Project
 ## Clone the repository:
-```git clone https://github.com/YourUsername/PRODIGY-ML-TASK-1.git```
+```git clone https://github.com/KrishShah1912/PRODIGY-ML-TASK-1.git```
 
 ---
 
