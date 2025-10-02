@@ -36,8 +36,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 * Run each cell sequentially to reproduce the results
 * Model Evaluation
 * Models are evaluated using:
-  -RMSE (Root Mean Squared Error): Measures prediction error
-  -R² Score: Shows how well the model explains variance in the data
+  - RMSE (Root Mean Squared Error): Measures prediction error
+  - R² Score: Shows how well the model explains variance in the data
   
 ---
 
